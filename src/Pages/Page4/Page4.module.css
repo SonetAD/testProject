@@ -1,0 +1,37 @@
+.textOne {
+  position: absolute;
+  left: 74px;
+  right: 50px;
+  top: 331px;
+  bottom: 496px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  /* or 125% */
+
+  text-align: center;
+
+  color: #414d55;
+}
+
+.textTwo {
+  position: absolute;
+  left: 73px;
+  right: 51px;
+  top: 285px;
+  bottom: 542px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  /* or 125% */
+
+  text-align: center;
+
+  color: #414d55;
+}

@@ -1,0 +1,64 @@
+.mainImg {
+  position: absolute;
+  width: 289px;
+  height: 289px;
+  left: 51px;
+  top: 112px;
+
+  background: url(../../assets/images/display2.png);
+}
+
+.textOne {
+  position: absolute;
+  left: 44px;
+  right: 288px;
+  top: 434px;
+  bottom: 393px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  /* or 125% */
+
+  text-align: center;
+
+  color: #414d55;
+}
+
+.textTwo {
+  position: absolute;
+  left: 105px;
+  right: 60px;
+  top: 433px;
+  bottom: 394px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  /* or 125% */
+
+  color: #c4c4c4;
+}
+
+.textFour {
+  position: absolute;
+  left: 70px;
+  right: 95px;
+  top: 432px;
+  bottom: 395px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  /* or 125% */
+
+  text-align: center;
+
+  color: #c4c4c4;
+}

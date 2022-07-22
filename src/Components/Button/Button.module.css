@@ -1,0 +1,17 @@
+.btn {
+  position: absolute;
+  padding: 10px;
+}
+
+.click {
+  animation: animate 1s ease-in;
+}
+
+@keyframes animate {
+  0% {
+    opacity: 50%;
+  }
+  100% {
+    opacity: 100%;
+  }
+}
